@@ -52,12 +52,12 @@ library
                      , file-embed
                      , hedis
                      , lens
-                     , monad-control
                      , monad-logger
                      , stm
                      , text
                      , time
                      , transformers
+                     , unliftio-core
                      , uuid
                      , yesod >= 1.4 && < 1.5
                      , yesod-core
